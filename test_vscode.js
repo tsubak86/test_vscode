@@ -5,3 +5,5 @@ console.log("The sum of a and b is: " + c);
 
 a = a + 5;
 console.log("After adding 5, the new value of a is: " + a);
+
+console.log("Gitの差分確認テスト");
